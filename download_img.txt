@@ -1,0 +1,1 @@
+GET http://localhost:5252/rest_api/get_res_pic

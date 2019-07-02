@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_api",
+  "version": "1.0.0",
+  "description": "this repo containg bipoler code for rest API in Node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "parth vadhadiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.5",
+    "test-bugger": "^2.2.2"
+  }
+}
